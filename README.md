@@ -1,4 +1,4 @@
-# Bricks_Heist
+# TryHack3M: Bricks Heist
 ## Introduction
 From Three Million Bricks to Three Million Transactions!<br>
 Brick Press Media Co. was working
