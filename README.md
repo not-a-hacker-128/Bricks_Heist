@@ -1,5 +1,6 @@
 # Bricks_Heist
-From Three Million Bricks to Three Million Transactions!
+## Introduction
+From Three Million Bricks to Three Million Transactions!<br>
 Brick Press Media Co. was working
 on creating a brand-new web theme that represents a renowned wall using 
 three million byte bricks. Agent Murphy comes with a streak of bad luck. 
