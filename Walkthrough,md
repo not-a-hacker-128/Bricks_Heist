@@ -1,4 +1,5 @@
 What is the content of the hidden .txt file in the web folder?
+gobuster dir -u http://bricks.thm -w /usr/share/wordlists/dirb/big.txt -x txt -k
 
 What is the name of the suspicious process?
 
